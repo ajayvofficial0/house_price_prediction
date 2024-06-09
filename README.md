@@ -1,4 +1,4 @@
-README: Predicting House Prices in Bangalore using Linear Regression, Lasso, and Ridge Regression
+Predicting House Prices in Bangalore using Linear Regression, Lasso, and Ridge Regression
 
 Introduction:
 This project aims to predict house prices in Bangalore utilizing three different regression techniques: Linear Regression, Lasso Regression, and Ridge Regression. We will leverage Keras and TensorFlow to implement these algorithms and train our models. The dataset used for training and testing is the Bangalore Housing Dataset, which contains various features related to houses in Bangalore along with their corresponding prices.
